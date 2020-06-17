@@ -2615,8 +2615,8 @@ Icons Example
 		text-transform: uppercase;
     margin-bottom: 10px;
     color: #fff;
-    border-top: 5px solid #ffffff;
-    border-radius: 25px;
+    /*border-top: 5px solid #ffffff;
+    border-radius: 25px; */
 	}
 
 	.work-culture p {
@@ -2699,9 +2699,6 @@ Icons Example
 	.mt-35 {
 		margin-top: 35px !important;
 	}
-	.pt-0 {
-		padding-top:0px !important;
-	}
 
 .content-slide-text span {
 
@@ -2779,3 +2776,22 @@ Icons Example
 	
 }
 
+#work {
+	padding-top:30px;
+}
+
+#about {
+	padding-top:30px;
+}
+
+#contact-us {
+	padding-top:30px;
+}
+
+.covid {
+	background-color:white;
+	width:100%;
+	font-weight: 100;
+	font-family: "Times New Roman", Times, serif;	
+	color :#05bbff;
+}
