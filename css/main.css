@@ -2794,4 +2794,13 @@ Icons Example
 	font-weight: 100;
 	font-family: "Times New Roman", Times, serif;	
 	color :#05bbff;
+	text-align:center;
+}
+.covidlink {
+	color:rgba(255,192,0,1) !important ;
+	
+}
+
+.covidlink:hover {
+	color:green !important ;
 }
